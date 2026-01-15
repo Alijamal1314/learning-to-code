@@ -1,6 +1,6 @@
 # learning-to-code
 Documenting my transition into software development through foundational programming and projects.
-# Jamal Naqvi – Learning & Projects
+# Ali Jamal Naqvi – Learning & Projects
 
 This repository documents my transition into software development, beginning with foundational programming concepts and progressing into hands-on projects.
 
@@ -12,6 +12,10 @@ This repository documents my transition into software development, beginning wit
 
 ## Background
 I come from a business and operations background, with experience working in fast-paced environments, managing systems, and improving workflows. I’m now applying that same problem-solving mindset to learning software development.
+
+## Learning Approach
+I focus on building a strong foundation by writing small, clear examples for each concept.
+Each script includes learning notes and next steps to reinforce understanding and track progress.
 
 ## In Progress
 - Python practice exercises
